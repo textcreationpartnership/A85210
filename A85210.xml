@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The equallity of the ministery plainly described, both by Scriptures, fathers, and councels. Layd open to this present Parliament, to stop the mouthes of all gaynesayers whatsoever. / By D.F. minister.</title>
+            <author>D. F., Minister.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85210</idno>
+            <idno type="STC">Wing F7</idno>
+            <idno type="STC">Thomason E205_11</idno>
+            <idno type="STC">ESTC R15289</idno>
+            <idno type="EEBO-CITATION">99859834</idno>
+            <idno type="PROQUEST">99859834</idno>
+            <idno type="VID">157705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157705)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E205[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The equallity of the ministery plainly described, both by Scriptures, fathers, and councels. Layd open to this present Parliament, to stop the mouthes of all gaynesayers whatsoever. / By D.F. minister.</title>
+                  <author>D. F., Minister.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare of our redemption. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157705:1" rendition="simple:additions"/>
+            <p>The Equallity of the Miniſtery plainly deſcribed, both by Scriptures <hi>Fathers,</hi> and Councels.</p>
+            <p>Layd open to this preſent Parliament, to ſtop the mouthes of all gayne-ſayers whatſoever.</p>
+            <p>
+               <hi>By</hi> D.F. <hi>Miniſter.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the yeare of our Redemption. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:157705:2"/>
+            <pb n="1" facs="tcp:157705:2"/>
+            <head>The Equallity of the Mi<g ref="char:EOLhyphen"/>niſtry deſcribed by
+<hi>Scriptures, Fa<g ref="char:EOLhyphen"/>thers</hi> and <hi>Councels.</hi> Layd open to this preſent Parliament to ſtop the mouths of all Gayn-ſayers.</head>
+            <p>THe Lord hath ordayned that there ſhould be one
+<hi>Biſhop</hi> or <hi>Paſtor</hi> (at the leaſt) preſident over every
+<hi>Con<g ref="char:EOLhyphen"/>gregation,</hi> or <hi>Flocke,</hi> are of equal authority in their ſeverall charges, and in the general govern<g ref="char:EOLhyphen"/>ment of the Church <hi>T. C.</hi>
+1 <hi>Booke, pag.</hi> 22. <hi>&amp;</hi> 2. <hi>booke</hi> 1. <hi>part, pag.</hi> 515.</p>
+            <pb n="2" facs="tcp:157705:3"/>
+            <p>
+               <hi>They maintaine contrary unto this, theſe two, viz.</hi>
+            </p>
+            <list>
+               <item>1. That one may have two or mo charges, and be abſent from them, as their Diſpenſations and practice do proove.</item>
+               <item>2. That one Miniſter may have a ſoveraigne and Lordſhip over his fellow Miniſters, which both be<g ref="char:EOLhyphen"/>ing diſprooved, the former aſſerti<g ref="char:EOLhyphen"/>on will remaine ſtill ſure.</item>
+            </list>
+            <p n="1">
+               <note place="margin">Reaſons a<g ref="char:EOLhyphen"/>gainſt the <hi>1.</hi> propoſition.</note>1. One man may not have mo Charges then he is able in any mea<g ref="char:EOLhyphen"/>ſure to diſcharge the duty, that is belonging unto mo flockes then one, ſeeing he cannot preach unto them, both in ſeaſon and out of ſeaſon: therefore no man may have more Charges then one, as I ſhall make it appear.</p>
+            <pb n="3" facs="tcp:157705:3"/>
+            <p n="2">2. That which maketh an open entrance to the enemy to ſpoile, cannot be lawfull: for one to have mo <hi>Charges</hi> then one, maketh open <hi>entrance</hi> for the <hi>enemy</hi> to ſpoil, for the
+<hi>Wolfe</hi> watcheth to devoure and deſtroy, whilſt the
+<hi>Shepheard</hi> is abſent: <hi>Therefore no man may have mo Charges then one, and therefore it is unlawfull.</hi>
+            </p>
+            <p n="3">3. That which hath neyther <hi>Precept</hi> nor
+<hi>Preſident</hi> for it, eyther in Gods Word, or any approved
+<hi>Writer,</hi> but only from <hi>Antichrist,</hi> is unlawful: But ſuch is the having of more <hi>Charges</hi> then one: <hi>There<g ref="char:EOLhyphen"/>fore it is accounted and esteemed un<g ref="char:EOLhyphen"/>lawfull.</hi>
+            </p>
+            <p n="4">4. That which declareth a <hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> to be more deſirous of the <hi>fleece,</hi> then to profit the <hi>flocke,</hi> that
+<pb n="4" facs="tcp:157705:4"/>ſame is vnlawfull: But ſuch is the having of mo Charges then one, for were it not for the gaine, they would thinke one a burthen as hea<g ref="char:EOLhyphen"/>vy as they could beare: therefore it is unlawfull.</p>
+            <p n="5">5. All the reaſons that be allead<g ref="char:EOLhyphen"/>ged in this booke, againſt <hi>Non-reſi<g ref="char:EOLhyphen"/>dence,</hi> are forcible to this purpoſe, for if he may not be <hi>Non-reſident,</hi> he may not have mo Charges, unleſſe he be willing to be quartred, that e<g ref="char:EOLhyphen"/>very Charge may have a piece of him.</p>
+            <p>
+               <note place="margin">Hooper up<g ref="char:EOLhyphen"/>on 8 com<g ref="char:EOLhyphen"/>mand.</note>
+               <hi>He reckoneth them among Theeves, and their action to be theevery, con<g ref="char:EOLhyphen"/>demned by that Commandement.</hi>
+            </p>
+            <p>
+               <hi>Therefore, if one man cannot in any tollerable meaſure diſcharge mo Charges then one;</hi>
+               <note place="margin">Concluſion.</note>
+               <hi>if to have mo maketh an open entrance to the enemy to ſpoile;
+<pb n="5" facs="tcp:157705:4"/>if it have neyther precept, nor preſident for it, but only in the Kingdome of An<g ref="char:EOLhyphen"/>tichrist; if it declare the practice to be more deſirous of the Fleece, then to feed the Flocke; if all the reaſons that con<g ref="char:EOLhyphen"/>demne Non-reſidency be againſt it: laſtly, if it be plaine Theevery, then muſt it needs follow, that one may not have two, or mo Charges.</hi>
+            </p>
+            <p>
+               <hi>Their objections, ſuch as they be, ſhal be ſet downe, and the anſwers to them hereafter.</hi>
+               <note place="margin">The ſecond propoſition that they hold &amp; rea<g ref="char:EOLhyphen"/>ſons againſt it.</note>
+            </p>
+            <p>The ſecond propoſtion that they hold, is thus.</p>
+            <p>
+               <hi>One Miniſter may have a ſoveraign authority and Lord over his fellow mi<g ref="char:EOLhyphen"/>niſters: is thus diſprooved.</hi>
+            </p>
+            <p n="1">1. They that have their Com<g ref="char:EOLhyphen"/>miſſion indifferently given them, without difference between one and another, are of equal authority, and <pb n="6" facs="tcp:157705:5"/>may not be one over another: But ſuch is the Commiſſion of all Gods Miniſters indifferently, as appeares <hi>Mat.</hi> 28.19.20. <hi>Therefore they are of equall authority, and may not have any dominion one over another</hi>
+            </p>
+            <p n="2">2. That which Chriſt hath di<g ref="char:EOLhyphen"/>rectly forbidden, that one Miniſter ſhould have dominion over another <hi>Matt.</hi> 20.25.
+<hi>Luke</hi> 22.25. <hi>Therefore one Miniſter may not have ſuperiority or dominion over another.</hi>
+            </p>
+            <p n="3">3. They that may not be <hi>Lords o<g ref="char:EOLhyphen"/>ver the people of God, may much leſſe be Lords over the Miniſters; for the Mi<g ref="char:EOLhyphen"/>niſters be</hi> (in reſpect of the Miniſte<g ref="char:EOLhyphen"/>ry) <hi>above the people: But a Miniſter may not be Lordly over Gods people (as is teſtified by him on whom they would father the greateſt Lordlineſſe)</hi> 1. <hi>Peter</hi> 5.3. Therefore one Miniſter may <pb n="7" facs="tcp:157705:5"/>not be Lord, or have ſuperiority o<g ref="char:EOLhyphen"/>ver another.</p>
+            <p n="4">4. It is ordained,<note place="margin">Cypria<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>1:</hi> Epist.
+<hi>3.</hi>
+               </note> and is equall and right, <hi>that every mans cauſe be heard, where the fault was committed, and it is meet to handle the matter there where they may have both the Accuſers and witneſſes of the fault, which ſhew<g ref="char:EOLhyphen"/>eth that every</hi> Miniſter <hi>had authority over his own flock, and no other to medle</hi>
+            </p>
+            <p n="5">5. Biſhops, <hi>wherſoever they be in al the world, are equal to</hi> our Biſhops,<note place="margin">Luther ad<g ref="char:EOLhyphen"/>verſus papat a Satana fun<g ref="char:EOLhyphen"/>dat:</note> 
+               <hi>or</hi> Pariſh Miniſters <hi>and</hi> Preachers,
+<hi>of none it can be ſaid one is</hi> Lord, <hi>ano<g ref="char:EOLhyphen"/>ther is</hi> ſervant:
+<hi>whatſoever belongeth to the Church, belongeth equally to all, ſaving that ſome are of better</hi> gifts <hi>then</hi> others, <hi>howbeit ſuch gifts cauſe no inequality or</hi> Lordſhip <hi>in the Church.</hi>
+            </p>
+            <p n="6">6. <hi>In the</hi> Apoſtolicke Church,<note place="margin">Musſcul: loc com: de mini: ver bi:</note> 
+               <hi>the</hi> Miniſters <hi>of the</hi> Word <hi>were none a<g ref="char:EOLhyphen"/>bove <pb n="8" facs="tcp:157705:6"/>another, and were ſubiect to no head or preſident , &amp;c.</hi>
+            </p>
+            <p n="7">7. <hi>The honour of a</hi> Biſhop,<note place="margin">The ſame upon the <hi>2.</hi> Theſ. <hi>8.2.</hi>
+               </note>
+               <hi>being taken from the reſt of the</hi> Miniſters, <hi>and given to one, was the firſt ſteppe to</hi> Papacy.</p>
+            <p n="8">8. Chriſt <hi>did moſt ſeverely forbid unto the</hi> Apoſtles <hi>and their</hi> Succeſ<g ref="char:EOLhyphen"/>ſours,<note place="margin">Confeſ. Hel. vet cap. <hi>17.</hi>
+               </note> 
+               <hi>primacy and dominion.</hi>
+            </p>
+            <p n="9">9. <hi>Equall</hi> power <hi>and</hi> Function <hi>is given to all</hi> miniſters <hi>of the</hi> Church,<note place="margin">The ſame cap. <hi>18.</hi>
+               </note> 
+               <hi>and that from the beginning, no one</hi> preferred <hi>himſelfe before another, ſa<g ref="char:EOLhyphen"/>ving only that for</hi> order,
+<hi>ſome one did cal them together; propounded the mat<g ref="char:EOLhyphen"/>ters that were to be conſulted of, and ga<g ref="char:EOLhyphen"/>thered the voices.</hi>
+            </p>
+            <p>Therefore, if all <hi>Ministers</hi> have their Commiſſion indifferently gi<g ref="char:EOLhyphen"/>ven unto them;<note place="margin">Concluſion.</note> if Chriſt have for<g ref="char:EOLhyphen"/>bidden, that one <hi>miniſter</hi> ſhold have
+<pb n="9" facs="tcp:157705:6"/>dominion over another; if no
+<hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> may exerciſe dominion over Gods people; if authority to han<g ref="char:EOLhyphen"/>dle Controverſies belonged to eve<g ref="char:EOLhyphen"/>ry ſeveral Congregation; if a
+<hi>Biſhop</hi> and pariſh <hi>Miniſter</hi> be all one; it in the
+<hi>Apoſtles time</hi> no <hi>Miniſter</hi> was a<g ref="char:EOLhyphen"/>bove another; if the ſuperiority of one above another was the firſt ſtep to the
+<hi>papacy;</hi> laſtly, if they have e<g ref="char:EOLhyphen"/>quall <hi>power and function</hi> from the <hi>be<g ref="char:EOLhyphen"/>ginning:</hi> then muſt it needes follow, that no
+<hi>miniſter</hi> may have ſuperiori<g ref="char:EOLhyphen"/>ty, or exerciſe <hi>dominion over another.</hi>
+            </p>
+            <p>
+               <hi>Jt remaineth that we proove more directly,</hi>
+               <note place="margin">A Biſhop ſhould be in every Con<g ref="char:EOLhyphen"/>gregation.</note> 
+               <hi>that the</hi> Lord <hi>hath ordained that there ſhould be a</hi> Biſhop
+<hi>Reſident over every Congregation, which is thus proved</hi>
+            </p>
+            <p n="1">1. If a <hi>Biſhop</hi> and <hi>Miniſter</hi> be all one, then muſt there be a <hi>Biſhop</hi> in e<g ref="char:EOLhyphen"/>very
+<pb n="10" facs="tcp:157705:7"/>
+               <hi>Congregation,</hi> for every man wil confeſſe that every <hi>Congregation</hi> ought to have a
+<hi>Miniſter:</hi> But a <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> and a <hi>Miniſter</hi> is all one, as ap<g ref="char:EOLhyphen"/>peared by this, that St. <hi>Paul</hi> diſ<g ref="char:EOLhyphen"/>cribeth not one quality for the <hi>Bi<g ref="char:EOLhyphen"/>ſhop,</hi> but it is alſo the quality of e<g ref="char:EOLhyphen"/>very good
+<hi>Miniſter;</hi> &amp; alſo in that he deſcribeth no other
+<hi>Miniſter,</hi> but the <hi>Biſhop: Therefore there ought to be a Biſhop in every Congregation.</hi>
+            </p>
+            <p n="2">2. <hi>S.</hi> Pauls <hi>Biſhops and his Dea<g ref="char:EOLhyphen"/>cons, were appoynted to one place, as it fully appeareth both in the deſ<g ref="char:EOLhyphen"/>cription of them, and the practiſe of the Apoſtles: But the</hi> Deacons <hi>were in e<g ref="char:EOLhyphen"/>very Congregation, which appeareth,</hi> Phil, 1.1, Acts 6.2. <hi>That office being needfull every where; and in that it continued ſo; longer then the Office of Biſhops:</hi> Athanaſius apol. 2. Ierom <hi>contra Luciferianos, &amp;c. Therefore <pb n="11" facs="tcp:157705:7"/>there ought to be a Biſhop in every Con<g ref="char:EOLhyphen"/>gregation.</hi>
+            </p>
+            <p n="3">3 <hi>That which</hi> Paul <hi>injoyned to</hi> Titus,
+<hi>is alſo to be practiſed alwayes in the like caſe: But hee commanded him to ordaine Elders in every City,</hi> Tit. 1.5. <hi>which are expounded in the next verſe to the Bi<g ref="char:EOLhyphen"/>ſhops: Therefore there muſt be a Biſhop in every Congregation.</hi>
+            </p>
+            <p n="4">
+               <note place="margin">Ignatius ad Philadelph.</note>4
+<hi>Every Church ſhould have her Com<g ref="char:EOLhyphen"/>munion Table, and every</hi> Church
+<hi>her Biſhop.</hi>
+            </p>
+            <p n="5">5 <hi>Where there was found any worthy to be a Biſhop, there a Biſhop was appoynted,</hi>
+               <note place="margin">Epiphan. lib.
+<hi>3.</hi> tom <hi>1.</hi> haereſ. <hi>75.</hi>
+               </note> &amp; <hi>where there was not to furniſh both Bi<g ref="char:EOLhyphen"/>ſhop and preaching</hi> Elder (<hi>hee meaneth the</hi> Doctor) <hi>there the Apoſtles made a</hi> Biſhop, <hi>and left the</hi> Elder.</p>
+            <p n="6">6 <hi>If a Biſhop runne into a</hi> Slander,<note place="margin">
+                  <hi>1</hi> Con<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>: Carthag: tam: <hi>1.</hi> c. p: <hi>10.</hi>
+               </note> 
+               <hi>and many Biſhops cannot ſuddenly be gathered; his cauſe ſhall be heard of</hi>
+12 <hi>Biſhops, &amp;c.</hi>
+            </p>
+            <pb n="12" facs="tcp:157705:8"/>
+            <p n="7">7 <hi>If an</hi> Elder <hi>be accuſed,</hi>
+               <note place="margin">3. <hi>Concil. tous.</hi> 1. <hi>cap.</hi> 8</note> 
+               <hi>hee may call ſixe Biſhops from the place hard by.</hi>
+            </p>
+            <p n="8">8 Stories <hi>make mention of Biſhops of little Townes, as</hi>
+               <note n="a" place="margin">Euſeb. lib. <hi>5</hi> cap.
+<hi>16.</hi>
+               </note> Solicus <hi>Biſhop of the village</hi> Cuman:<note n="b" place="margin">Theodoret. lib. <hi>5.</hi> cap. <hi>4.</hi>
+               </note> Mares,
+<hi>Biſhop of a ſmall Towne called</hi> Solicha:<note n="c" place="margin">
+                  <hi>Socrat.</hi> 4.26.</note> Gregorie <hi>Biſhop of a ſmall Citie, called</hi> Nazian<g ref="char:EOLhyphen"/>zum:<note n="d" place="margin">
+                  <hi>Queſt.</hi> 16.
+<hi>dist.</hi> 50.</note> 
+               <hi>The Biſhop of a Caſtle.</hi>
+            </p>
+            <p n="9">
+               <note place="margin">Ierome ad Evagrium.</note>9 <hi>A Miniſter, that is to ſay, a Biſhop, and (a little after) the Apoſtle doth plain<g ref="char:EOLhyphen"/>ly teach,</hi> Miniſter and a Biſhop is all one, <hi>and</hi> (<hi>upon</hi> Titus) <hi>a Biſhop and a Miniſter are the ſame: and</hi> (ad Oceanum) <hi>with the ancient</hi> Fathers, Biſhops and Elders were all one.</p>
+            <p n="10">10 <hi>D. Barnes</hi> (<hi>in his first</hi> Article)
+<hi>ſaith,</hi>
+               <note place="margin">Acts and Monuments fol.
+<hi>216.</hi>
+               </note> I will never believe, neither can I ever believe, that one man may by the Law of God, bee a <hi>Biſhop</hi> of two or three Cities, yea of a whole Coun<g ref="char:EOLhyphen"/>trie; for that is contrary to the <pb n="13" facs="tcp:157705:8"/>Doctrine of St. <hi>Paul,</hi> who writing to <hi>Titus,</hi> commandeth that hee ſhould ordaine a <hi>Biſhop</hi> in every towne.</p>
+            <p n="11">11 <hi>It is pitty to ſee how farre the of<g ref="char:EOLhyphen"/>fice of a Biſhop is degenerated from the originall in the</hi> Scripture;<note place="margin">Hooper upon <hi>8</hi> Command. pag. <hi>90.</hi>
+               </note> it was not ſo in the beginning, when <hi>Biſhops</hi> were at the beſt, as the Epiſtle to <hi>Titus</hi> te<g ref="char:EOLhyphen"/>ſtifieth, that willeth him, to ordaine in everie City, &amp;c. They know the Primitive Church have no ſuch
+<hi>Biſhops</hi> as wee have, untill the time of <hi>Silveſter</hi> the firſt.</p>
+            <p>
+               <note place="margin">The Conclu<g ref="char:EOLhyphen"/>ſion.</note>Therefore, if a
+<hi>Biſhop</hi> and a <hi>Mini<g ref="char:EOLhyphen"/>ſter</hi> be all one; if <hi>Biſhops</hi> were to bee where <hi>Deacons</hi> are, who were in every Congregation; if
+<hi>Paul</hi> enjoyned <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> to ordaine <hi>Biſhops</hi> in every Citie; and if every Church had her <hi>Biſhop</hi> a long time after the Apoſtles, as <pb n="14" facs="tcp:157705:9"/>appeareth by the teſtimonies of <hi>Coun<g ref="char:EOLhyphen"/>cels, Hiſtories,</hi> and Learned
+<hi>Wri<g ref="char:EOLhyphen"/>ters,</hi> both old and new: then muſt it needs follow, that there ought to to bee a <hi>biſhop</hi> in every Congrega<g ref="char:EOLhyphen"/>tion.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157705:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
